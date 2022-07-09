@@ -7,3 +7,6 @@ I have built some projects using ML and Deep Learning [Github](https://github.co
 
 It is difficult to underestimate how important the AI is gonna be. 
 And I am really excited to be able to work in the field.
+
+
+# Projects:
